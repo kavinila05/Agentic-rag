@@ -896,4 +896,7 @@ These limitations are intentional so that the core Agentic RAG concepts
 remain easy to understand.
 
 ------------------------------------------------------------------------
+output
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/5ae69bc7-21c4-4a79-aecb-ebd2ffddd771" />
+
 
